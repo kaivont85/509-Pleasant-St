@@ -476,6 +476,10 @@ header ul li a:hover, header ul li a.active {
   padding-left: 10px;
 }
 
+#properties-slider .property-details span.garage {
+  padding-right: 0;
+  padding-left: 10px;
+}
 #properties-slider .property-details span.sqft {
   padding-right: 0;
   padding-left: 10px;
@@ -917,7 +921,7 @@ footer small a:hover {
     justify-content: flex-end;
   }
   #property-details .property-stats-container .padded-inner-container {
-    padding: 0 0.35rem;
+    padding: 0 0.25rem;
   }
   #property-details .property-stats-container strong {
     font-size: 1rem;
